@@ -1,7 +1,7 @@
 [
     {
         "id": "animalito-01",
-        "titulo": "Animalito 01",
+        "titulo": "Animalito",
         "imagen": "/img/animalito.jpg",
         "categoria": {
             "nombre": "Animalito",
