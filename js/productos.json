@@ -1,0 +1,64 @@
+[
+    {
+        "id": "animalito-01",
+        "titulo": "Animalito 01",
+        "imagen": "/img/animalito.jpg",
+        "categoria": {
+            "nombre": "Animalito",
+            "id": "animalitos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Desayuno-02",
+        "titulo": "Desayuno",
+        "imagen": "./img/Desayuno.jpg",
+        "categoria": {
+            "nombre": "Plato",
+            "id": "Platos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Maceta-03",
+        "titulo": "Maceta",
+        "imagen": "./img/maceta.jpg",
+        "categoria": {
+            "nombre": "Maceta",
+            "id": "Macetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Mate-04",
+        "titulo": "Mate",
+        "imagen": "./img/mate.jpg",
+        "categoria": {
+            "nombre": "Animalito",
+            "id": "Animalitos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Plato-05",
+        "titulo": "Plato",
+        "imagen": "./img/plato.jpg",
+        "categoria": {
+            "nombre": "Plato",
+            "id": "Platos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Vela-01",
+        "titulo": "Vela",
+        "imagen": "./img/vela.jpg",
+        "categoria": {
+            "nombre": "Vela",
+            "id": "Velas"
+        },
+        "precio": 1000
+    
+    
+    }
+]
